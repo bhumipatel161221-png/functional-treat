@@ -1,0 +1,302 @@
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 2
+
+Data Summary (built-in functions):
+  Total elements    : 6
+  Minimum value     : 11
+  Maximum value     : 99
+  Sum of all values : 308
+  Average value     : 51.33
+  Sorted (preview)  : [11, 18, 20, 66, 94] ...
+  Data type         : 1D
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 3
+
+--- Recursion Demonstration ---
+1. Factorial
+2. Fibonacci
+3. Go Back
+Enter your choice: 1
+Enter a number to calculate its factorial: 4
+Factorial of 4 is: 24
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 5
+
+--- Transform Data (Lambda + map) ---
+1. Square each value
+2. Double each value
+3. Multiply by a custom factor
+4. Add a custom constant
+5. Convert all values to strings
+Enter your choice: 2
+
+Transformed Data (doubled):
+[22, 36, 40, 132, 198, 188] 
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 6
+
+--- Sort Data ---
+1. Ascending
+2. Descending
+Enter your choice: 1
+
+1D Data sorted in Ascending order (list.sort() in-place):
+   [11, 18, 20, 66, 94, 99]
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 7
+
+Dataset Statistics (multiple return values):
+  Minimum value     : 11
+  Maximum value     : 99
+  Sum of all values : 308
+  Average value     : 51.33
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 8
+
+--- Advanced Operations ---
+1. Demonstrate *args
+2. Demonstrate **kwargs (Dataset Summary)
+3. Find duplicates
+4. Find unique values
+5. Show function documentation (__doc__)
+6. Go Back
+Enter your choice: 
+Invalid choice.
+
+--- Advanced Operations ---
+1. Demonstrate *args
+2. Demonstrate **kwargs (Dataset Summary)
+3. Find duplicates
+4. Find unique values
+5. Show function documentation (__doc__)
+6. Go Back
+Enter your choice: 3
+Duplicates: None
+
+--- Advanced Operations ---
+1. Demonstrate *args
+2. Demonstrate **kwargs (Dataset Summary)
+3. Find duplicates
+4. Find unique values
+5. Show function documentation (__doc__)
+6. Go Back
+Enter your choice: 4
+Unique values: [11, 18, 20, 66, 94, 99]
+
+--- Advanced Operations ---
+1. Demonstrate *args
+2. Demonstrate **kwargs (Dataset Summary)
+3. Find duplicates
+4. Find unique values
+5. Show function documentation (__doc__)
+6. Go Back
+Enter your choice: 6
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 9
+
+--- Function Documentation (__doc__) ---
+
+input_data():
+  Prompt the user to enter a 1D or 2D array manually, or load sample data.
+
+display_data_summary():
+  Display basic statistics using built-in functions len(), sum(), min(), max().
+
+calculate_factorial():
+  Recursively calculate the factorial of a non-negative integer n.
+
+calculate_fibonacci():
+  Recursively calculate the nth Fibonacci number (0-indexed).
+
+filter_data_by_threshold():
+  Filter data using a lambda function and the built-in filter().
+
+transform_data_with_map():
+  Transform data using a lambda function and the built-in map().
+
+sort_data():
+  Sort 1D data in-place with list.sort(); sort 2D rows with sorted().
+
+get_dataset_statistics():
+  Return multiple statistics about the dataset as a tuple (min, max, sum, avg).
+
+show_args_demo():
+  Accept multiple positional arguments with *args and display them.
+
+show_kwargs_demo():
+  Accept keyword arguments with **kwargs and print a key-value summary.
+
+find_duplicates():
+  User-defined: return a sorted list of values that appear more than once.
+
+find_unique():
+  User-defined: return a sorted list of the unique values.
+
+display_2d_grid():
+  Display the current 2D DATASET as a formatted grid.
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 10
+No 2D data available.
+
+Press Enter to continue...
+
+==========================================================
+   Welcome to the Data Analyzer and Transformer Program
+==========================================================
+Main Menu:
+ 1.  Input Data
+ 2.  Display Data Summary (Built-in Functions)
+ 3.  Calculate Factorial / Fibonacci (Recursion)
+ 4.  Filter Data by Threshold (Lambda + filter)
+ 5.  Transform Data (Lambda + map)
+ 6.  Sort Data
+ 7.  Display Dataset Statistics (Return Multiple Values)
+ 8.  Advanced Operations (*args, **kwargs, duplicates, unique)
+ 9.  Show Function Documentation (__doc__)
+10.  Display 2D Grid (if 2D)
+11.  Exit Program
+==========================================================
+Please enter your choice: 11
+
+Thank you for using the Data Analyzer and Transformer Program. Goodbye!
